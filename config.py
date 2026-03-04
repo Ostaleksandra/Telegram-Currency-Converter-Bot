@@ -1,4 +1,4 @@
-TOKEN =''
+TOKEN = ''
 
 CURRENCY_KEYS = {
     "биткоин": "BTC",
@@ -7,3 +7,4 @@ CURRENCY_KEYS = {
     "евро": "EUR"
 
 }
+
